@@ -1,0 +1,19 @@
+# Ignore all .log files
+*.log
+
+# Ignore a specific file
+secrets.txt
+
+# Ignore a directory
+node_modules/
+
+# Ignore all .env files
+*.env
+
+# Ignore everything in the temp folder
+temp/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
